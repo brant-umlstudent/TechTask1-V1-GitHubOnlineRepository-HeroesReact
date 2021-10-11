@@ -2,6 +2,10 @@
 /* eslint-env mocha */
 /* global cy expect Cypress */
 
+{
+  "projectId": "3khpt7"
+}
+
 import data from '../../db';
 
 const hero = data.heroes[3];
