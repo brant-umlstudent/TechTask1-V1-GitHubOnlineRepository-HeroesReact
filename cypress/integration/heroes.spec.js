@@ -3,7 +3,7 @@
 /* global cy expect Cypress */
 
 {
-  "projectId": "3khpt7"
+  "projectId": "uv17ev"
 }
 
 import data from '../../db';
